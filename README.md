@@ -2,6 +2,9 @@
 Create a folder called 'weights' inside the v2 directory
 Inside the weights folder add a .pt file called 'best.pt'
 
+## Run the project app.py file
+run the project app.py file to test the endpoint
+
 ## Sample curl request
 curl --location 'http://127.0.0.1:5000/malai_upload' \
 --form 'file=@"/C:/Users/pkase/Downloads/official-flames-logo-fire-circle-red-and-orange-011726586194.png"'
